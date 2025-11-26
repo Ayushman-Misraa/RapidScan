@@ -70,6 +70,5 @@ Under development.
 - Submit a pull request.
 
 - ## Created By:
-- PRASHANT KUMAR
-- ## Anonymous Name:
-- CodeX
+- Ayushman Misra
+
